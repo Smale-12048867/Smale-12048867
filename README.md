@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I have experience in:
+  - 👨‍💻Architecting & developing highly reusable & expandable embedded firmware,
+  - Bare metal software development
+  - 🪁 Real-time system design - especially using [ZephyrRTOS](https://www.zephyrproject.org/), with some experience in:
+      - [FreeRTOS](https://www.freertos.org/)
+  - 🌐 IoT end nodes orchestration with the ☁
+        - AWS IOT
+📫 How to reach me: santoshiiitb@gmail.com or santoshiitb@outlook.com or linkedin.com/in/santosh-male-89b1a5a6
+🤷‍♂️ Pronouns: He/Him
+
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smale-12048867&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smale-12048867&layout=compact&theme=radical)
