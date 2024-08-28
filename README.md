@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<!--
-**Smale-12048867/Smale-12048867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Santosh Male's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smale-12048867&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smale-12048867&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smale-12048867&layout=compact&theme=radical)
+
+<!--
+**Smale-12048867/Smale-12048867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
