@@ -5,6 +5,8 @@ I have experience in:
   - Bare metal software development
   - 🪁 Real-time system design - especially using [ZephyrRTOS](https://www.zephyrproject.org/), with some experience in:
       - [FreeRTOS](https://www.freertos.org/)
+  - 🪁 Zephyr Driver developmet
+  - 🐧 Linux kernel Driver and application development
   - 🌐 IoT end nodes orchestration with the ☁
         - AWS IOT
 
