@@ -7,6 +7,8 @@ I have experience in:
       - [FreeRTOS](https://www.freertos.org/)
   - 🌐 IoT end nodes orchestration with the ☁
         - AWS IOT
+
+    
 📫 How to reach me: santoshiiitb@gmail.com or santoshiitb@outlook.com or linkedin.com/in/santosh-male-89b1a5a6
 🤷‍♂️ Pronouns: He/Him
 
