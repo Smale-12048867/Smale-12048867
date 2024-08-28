@@ -9,7 +9,7 @@ I have experience in:
         - AWS IOT
 
     
-📫 How to reach me: santoshiiitb@gmail.com or santoshiitb@outlook.com or linkedin.com/in/santosh-male-89b1a5a6
+📫 How to reach me: santoshiiitb@gmail.com or santoshiitb@outlook.com or [Linkedin](https://www.linkedin.com/in/santosh-male-89b1a5a6/)
 🤷‍♂️ Pronouns: He/Him
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smale-12048867&show_icons=true&theme=radical)
